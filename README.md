@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Sppech Recognition Using Tensorflow
+# Speech Recognition Using Tensorflow
 
 #### check this tutorial on 
 
